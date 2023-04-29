@@ -1,3 +1,5 @@
+![perfect_blue_mirror2](https://user-images.githubusercontent.com/128937668/235308273-9f44fd1d-e5ed-495f-a362-95935481d848.gif)
+
 No momento, os números naturais, parece representarem o que é mais fácil e familiar em matemática.
 
 Não é difícil ver que, partindo de 0, pode-se atingir qualquer outro número natural por adições repetidas de 1.
